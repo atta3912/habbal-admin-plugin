@@ -13,7 +13,8 @@
       "packages/admin-next/*",
       "packages/design-system/*",
       "packages/generated/*",
-      "integration-tests/**/*"
+      "integration-tests/**/*",
+      "packages/admin-next/habbal-admin-plugin" 
     ]
   },
   "devDependencies": {
